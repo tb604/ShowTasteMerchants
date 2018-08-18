@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  ShowTasteMerchants
+
+  Created by 唐斌 on 16/9/30.
+  Copyright © 2016年 唐斌. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "中文名字";
+
+"OrderMealTitle" = "订餐"; // 普通模式订餐
+"KitchenCircleTitle" = "圈子"; // 普通模式圈子
+"UserOrderTitle" = "订单"; // 普通模式订单
+"MyInfoTitle" = "我的";  // 我的
+// _managerOrderNav
+"ManagerOrderTitle" = "订单";
+"RestaurantListTitle" = "餐厅";
+"MyFinanceTitle" = "财务";
